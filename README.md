@@ -25,7 +25,9 @@ Enter "**Quod**" (latin for "**fact**"), a Twitter bot - on command - starts tel
 
 ## NOTES
 
-This bot should work as a standalone or as integrated with our own VOSTPTia
---
+- This bot should work as a standalone or as integrated with our own VOSTPTia
+
+---
+
 ## Technical Details
 - Right now there is no set language to develop this project, although, most of VOST volunteers know PHP, Node.JS and Flutter, we accept every language.
